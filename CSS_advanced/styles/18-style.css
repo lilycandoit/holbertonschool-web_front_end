@@ -140,8 +140,13 @@ a:active {
 nav {
   margin: 0;
   padding: 0;
-  list-style: none; /* meaning remove bullets */
   text-align: center;
+}
+
+nav ul {
+  list-style: none; /* meaning remove bullets */
+  margin: 0;
+  padding: 0;
 }
 
 nav .nav-item {
