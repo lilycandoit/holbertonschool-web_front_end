@@ -141,12 +141,7 @@ a:active {
   margin: 0;
   padding: 0;
   text-align: center;
-}
-
-.nav ul {
   list-style: none; /* meaning remove bullets */
-  margin: 0;
-  padding: 0;
 }
 
 .nav .nav-item {
