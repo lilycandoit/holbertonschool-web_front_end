@@ -118,7 +118,7 @@ a:active {
   font-family: var(--font-family-title);
   text-transform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
-  margin: var(--section-title-margin);
+  margin: var(--section-tagline-margin);
 }
 
 .container {
