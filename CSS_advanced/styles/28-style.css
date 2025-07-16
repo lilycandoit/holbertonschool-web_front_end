@@ -82,7 +82,7 @@ body {
   padding: var(--header-padding);
 }
 
-.header .header-logo {
+.header-logo {
   position: var(--header-logo-position);
 }
 
