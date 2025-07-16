@@ -47,7 +47,7 @@ h6 {
   font-weight: var(--font-weight-bold);
 }
 
-a[href]:link {
+a[href] {
   color: var(--text-color);
   text-decoration: none;
 }
